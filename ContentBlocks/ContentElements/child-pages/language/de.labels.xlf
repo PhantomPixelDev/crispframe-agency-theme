@@ -1,87 +1,98 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file datatype="plaintext" original="labels.xlf" source-language="en" date="2026-09-22T20:39:40+00:00" product-name="crispframe/intro">
-    <header/>
+  <file datatype="plaintext" original="labels.xlf" source-language="en" product-name="crispframe/child-pages" target-language="de">
     <body>
       <trans-unit id="title">
-        <source>Intro</source>
+        <source>Child page teasers</source>
+        <target>Unterseiten-Teaser</target>
       </trans-unit>
       <trans-unit id="description">
-        <source>Centered introductory text with headline, lead paragraph and optional copy.</source>
+        <source>Show translated child pages as cards or a compact list.</source>
+        <target>Übersetzte Unterseiten als Karten oder kompakte Liste anzeigen.</target>
       </trans-unit>
       <trans-unit id="headline.label">
         <source>Headline</source>
+        <target>Überschrift</target>
       </trans-unit>
-      <trans-unit id="isPageTitle.label"><source>Use as page heading (h1)</source></trans-unit>
-      <trans-unit id="isPageTitle.description"><source>Enable only for the first heading on a page.</source></trans-unit>
       <trans-unit id="lead.label">
-        <source>Lead paragraph</source>
+        <source>Introduction</source>
+        <target>Einleitung</target>
       </trans-unit>
-      <trans-unit id="lead.description">
-        <source>Larger introductory sentence.</source>
+      <trans-unit id="parentPage.label">
+        <source>Parent page</source>
+        <target>Übergeordnete Seite</target>
       </trans-unit>
-      <trans-unit id="text.label">
-        <source>Supporting text</source>
+      <trans-unit id="parentPage.description">
+        <source>Show visible direct children of this page.</source>
+        <target>Sichtbare direkte Unterseiten dieser Seite anzeigen.</target>
       </trans-unit>
-      <trans-unit id="text.description">
-        <source>Additional paragraphs. Line breaks are preserved.</source>
+      <trans-unit id="layout.label">
+        <source>Layout</source>
+        <target>Layout</target>
       </trans-unit>
-      <trans-unit id="linkLabel.label">
-        <source>Button label</source>
+      <trans-unit id="layout.items.cards.label">
+        <source>Cards</source>
+        <target>Karten</target>
       </trans-unit>
-      <trans-unit id="link.label">
-        <source>Button link</source>
+      <trans-unit id="layout.items.list.label">
+        <source>Compact list</source>
+        <target>Kompakte Liste</target>
       </trans-unit>
       <trans-unit id="sectionSpacing.label">
         <source>Section spacing</source>
-      </trans-unit>
-      <trans-unit id="sectionSpacing.description">
-        <source>Vertical spacing before and after the section.</source>
+        <target>Abschnittsabstand</target>
       </trans-unit>
       <trans-unit id="sectionSpacing.items.small.label">
         <source>Small</source>
+        <target>Klein</target>
       </trans-unit>
       <trans-unit id="sectionSpacing.items.default.label">
         <source>Default</source>
+        <target>Standard</target>
       </trans-unit>
       <trans-unit id="sectionSpacing.items.large.label">
         <source>Large</source>
+        <target>Groß</target>
       </trans-unit>
       <trans-unit id="sectionBackground.label">
         <source>Section background</source>
-      </trans-unit>
-      <trans-unit id="sectionBackground.description">
-        <source>Background variant for the section.</source>
+        <target>Abschnittshintergrund</target>
       </trans-unit>
       <trans-unit id="sectionBackground.items.default.label">
         <source>Default</source>
+        <target>Standard</target>
       </trans-unit>
       <trans-unit id="sectionBackground.items.subtle.label">
         <source>Subtle</source>
+        <target>Dezent</target>
       </trans-unit>
       <trans-unit id="sectionBackground.items.dark.label">
         <source>Dark</source>
+        <target>Dunkel</target>
       </trans-unit>
       <trans-unit id="sectionBackground.items.brand.label">
         <source>Brand</source>
+        <target>Markenfarbe</target>
       </trans-unit>
       <trans-unit id="width.label">
         <source>Container width</source>
-      </trans-unit>
-      <trans-unit id="width.description">
-        <source>Maximum width of the content container.</source>
+        <target>Containerbreite</target>
       </trans-unit>
       <trans-unit id="width.items.narrow.label">
         <source>Narrow</source>
+        <target>Schmal</target>
       </trans-unit>
       <trans-unit id="width.items.default.label">
         <source>Default</source>
+        <target>Standard</target>
       </trans-unit>
       <trans-unit id="width.items.wide.label">
         <source>Wide</source>
+        <target>Breit</target>
       </trans-unit>
       <trans-unit id="width.items.full.label">
         <source>Full</source>
+        <target>Volle Breite</target>
       </trans-unit>
     </body>
   </file>
